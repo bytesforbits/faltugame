@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Lilita+One&display=swap');
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+#canvas1{
+	background: #28282B;
+	position: absolute;
+	border: 5px solid black;
+	width: 400px;
+	max-width: 100vw;
+	min-height: 100vh;
+	transform: translate(-50%,-50%);
+	top: 50%;
+	left: 50%;
+	font-family: 'Lilita One', cursive;
+	font-size: 20px;
+}
+
